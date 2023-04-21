@@ -28,8 +28,10 @@ CTestTestFile.cmake
 
 # Visual Studio build files
 *.vcxproj
+*.vcxproj.user
 *.vcxproj.filters
 *.sln
+*.lua
 
 # Apple Finder metadata
 *.DS_Store
